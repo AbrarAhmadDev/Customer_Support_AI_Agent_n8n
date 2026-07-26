@@ -97,9 +97,7 @@ Customer-Support-AI-Agent/
 
 The complete n8n workflow responsible for email processing, AI classification, retrieval, drafting, and notifications.
 
-```
 ![Workflow](screenshots/workflow.png)
-```
 
 ---
 
@@ -107,9 +105,7 @@ The complete n8n workflow responsible for email processing, AI classification, r
 
 Example of a customer support inquiry received through Gmail.
 
-```
 ![Client-email](screenshots/client-email.png)
-```
 
 ---
 
@@ -117,9 +113,7 @@ Example of a customer support inquiry received through Gmail.
 
 After retrieving relevant information from the vector database, Gemini generates a professional response and saves it as a Gmail draft for review.
 
-```
 ![Ai-draft](screenshots/ai-draft.png)
-```
 
 ---
 
@@ -127,9 +121,7 @@ After retrieving relevant information from the vector database, Gemini generates
 
 Once the draft is prepared, the workflow sends an instant Telegram notification to inform the support team.
 
-```
-![Telegram-notification](screenshots/telegram-notification.png)
-```
+![Telegram-notification](screenshots/telegram-notification.jpeg)
 
 ---
 

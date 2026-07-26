@@ -98,7 +98,7 @@ Customer-Support-AI-Agent/
 The complete n8n workflow responsible for email processing, AI classification, retrieval, drafting, and notifications.
 
 ```
-screenshots/workflow.png
+![Workflow]screenshots/workflow.png
 ```
 
 ---

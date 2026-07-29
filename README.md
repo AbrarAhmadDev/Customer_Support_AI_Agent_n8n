@@ -1,25 +1,25 @@
-# 📧 Customer Support AI Agent
+# Customer Support AI Agent
 
 An AI-powered customer support automation workflow built with **n8n**, **Google Gemini**, and **Supabase Vector Database**. The system automatically processes incoming customer emails, classifies them, retrieves relevant knowledge using semantic search, drafts professional responses, and notifies the support team via Telegram.
 
 ---
 
-## 🚀 Features
+## Features
 
-- 📥 Automatically monitors incoming Gmail messages
-- 🧠 AI-powered email classification
+- Automatically monitors incoming Gmail messages
+- AI-powered email classification
   - Customer Support
   - Promotional / Marketing
-- 🔍 Retrieval-Augmented Generation (RAG)
+- Retrieval-Augmented Generation (RAG)
   - Searches a Supabase Vector Database for relevant company knowledge
-- ✍️ Generates professional email drafts using Google Gemini
-- 📬 Saves the response as a Gmail draft for human review
-- 📱 Sends a Telegram notification when the draft is ready
-- ⚡ Fully automated workflow built in n8n
+- Generates professional email drafts using Google Gemini
+- Saves the response as a Gmail draft for human review
+- Sends a Telegram notification when the draft is ready
+- Fully automated workflow built in n8n
 
 ---
 
-# 🏗 Workflow
+# Workflow
 
 ```text
 Incoming Email
@@ -57,7 +57,7 @@ Incoming Email
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 | Category | Technology |
 |----------|------------|
@@ -72,7 +72,7 @@ Incoming Email
 
 ---
 
-# 📂 Repository Structure
+# Repository Structure
 
 ```
 Customer-Support-AI-Agent/
@@ -91,7 +91,7 @@ Customer-Support-AI-Agent/
 
 ---
 
-# 📸 Demo
+# Demo
 
 ## 1. Complete Automation Workflow
 
@@ -129,7 +129,7 @@ Once the draft is prepared, the workflow sends an instant Telegram notification 
 
 ---
 
-# ⚙️ How It Works
+# How It Works
 
 ### Step 1 — Email Monitoring
 
@@ -162,7 +162,7 @@ A Telegram message is sent notifying the support team that the draft is ready.
 
 ---
 
-# 🎯 Use Cases
+# Use Cases
 
 - Customer Support Automation
 - AI Help Desk
